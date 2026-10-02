@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "agent-flow-skills",
+  "description": "Free skills for AgentWorkFlow agents, in the Claude Code plugin marketplace format.",
+  "owner": { "name": "flylib", "url": "https://github.com/flylib" },
+  "plugins": [
+    {
+      "name": "dev-extras",
+      "source": "./plugins/dev-extras",
+      "description": "开发辅助：从提交生成发布说明、按改动写规范的提交信息。",
+      "version": "0.1.0",
+      "category": "development",
+      "author": { "name": "flylib" }
+    }
+  ]
+}

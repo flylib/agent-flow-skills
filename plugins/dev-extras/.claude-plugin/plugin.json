@@ -1,0 +1,8 @@
+{
+  "name": "dev-extras",
+  "version": "0.1.0",
+  "description": "开发辅助：从提交生成发布说明、按改动写规范的提交信息。",
+  "author": { "name": "flylib" },
+  "license": "Apache-2.0",
+  "keywords": ["release-notes", "changelog", "commit-message", "git"]
+}
